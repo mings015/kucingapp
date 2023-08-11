@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "413667339153",
+    "firebase_url": "https://smartfeeder-be310-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartfeeder-be310",
+    "storage_bucket": "smartfeeder-be310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413667339153:android:2aacd65dc933a58f070830",
+        "android_client_info": {
+          "package_name": "com.example.kucing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413667339153-ek8fe4si9fhnf2virk94iaaog26s6150.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsrOisaCCyRON3mvjZk07XAvzQQJzcQlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413667339153-ek8fe4si9fhnf2virk94iaaog26s6150.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413667339153:android:5c1b2a9c16b1c0e7070830",
+        "android_client_info": {
+          "package_name": "com.kucingapp.kucingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413667339153-ek8fe4si9fhnf2virk94iaaog26s6150.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsrOisaCCyRON3mvjZk07XAvzQQJzcQlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413667339153-ek8fe4si9fhnf2virk94iaaog26s6150.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
